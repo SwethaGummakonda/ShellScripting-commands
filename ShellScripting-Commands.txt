@@ -1,0 +1,13 @@
+Moving Around the FileSystem :
+pwd: Print working directory 
+cd : cd command allows you to change the directory. 
+      To navigate into the root directory, use cd / 
+      To navigate to your home directory, use cd
+      To navigate up one directory level, use cd ..
+      To navigate to the previous directory (or back), use cd - 
+
+Manipulating Files and Folders:
+cp: The cp command makes a copy of a file for you. 
+For example, cp file foo makes an exact copy of the file whose name you entered and names the copy foo.
+mv: The mv command moves a file to a different location or renames a file.
+Examples are as follows: mv file foo renames the original file to foo. 
